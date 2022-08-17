@@ -1,0 +1,20 @@
+{
+  "name": "landing-page-idiomas",
+  "version": "1.0.0",
+  "description": "Prácticas de Async del curso de Platzi.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shuri991/landing-page-idiomas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shuri991/landing-page-idiomas/issues"
+  },
+  "homepage": "https://github.com/shuri991/landing-page-idiomas#readme"
+}
